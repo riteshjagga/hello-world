@@ -1,4 +1,4 @@
 This is a document containing list of features to be enabled in the app.
 
- - Feature 1
+ - Feature 1 - Document created
  - Feature 2 - Document available
