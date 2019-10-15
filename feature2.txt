@@ -1,0 +1,6 @@
+This document contains instructions to enable feature2 in the app.
+
+Here are the steps:
+ 1. Open app in Chrome browser.
+ 2. Execute command `cd ~` to go to the home directory.
+ 3. Refresh app in the browser.
